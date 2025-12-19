@@ -69,6 +69,6 @@ Environment-based configuration using .env
 Optimized frontend API calls to reduce unnecessary re-renders
 
 Clean separation of frontend and backend for faster development cycles
-## Demo
+## Demo Frontend
 https://story-generator-ai-git-main-patel-bijals-projects.vercel.app/
 
